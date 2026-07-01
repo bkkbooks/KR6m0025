@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0025/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 掌珍論疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X46/X46n0788.xml
+    old_id: X46n0788
+hash: sha256:e037d097069a1ae263b1418b7d2e2e4691c3b6d27a3f17598a5077d550ffb268
