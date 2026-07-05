@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0025_000.yaml, hash: 'sha256:e037d097069a1ae263b1418b7d2e2e4691c3b6d27a3f17598a5077d550ffb268'}
-  - {seq: 1, filename: KR6m0025_001.yaml, hash: 'sha256:094ea2f0d3a783e59703258d6d20fa277ea875b4c28279e5ef141e1f5dd9a556'}
+  - {seq: 1, filename: KR6m0025_001.yaml, hash: 'sha256:9d70aeebc920f88688d7043fc8ca91a70f0c29cc77138e75f3b5c4bf2de745fa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6m0025_001.markers.yaml, hash: 'sha256:ed9e851dee0848ac50e7fb4154cba1618d76f813cfe6ce05cc2bec25aff9e942'}
+  - {seq: 0, role: markers, filename: assets/KR6m0025_000.markers.yaml, hash: 'sha256:3e319d6ed782f102d93f0a02deb654cd1e1448549ad39f2a7a89c88593df486e'}
+  - {seq: 1, role: markers, filename: assets/KR6m0025_001.markers.yaml, hash: 'sha256:c9a4df82a37089f070a7e90a197056fec7f946b41affd29c5897281a0165a147'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 掌珍論疏卷下
   type: juan
   level: 1
-hash: sha256:ec2211562b47a84f40257d196264a7b94843662fbf75107babad3c7572797adf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d241182692a091bab8a0e77aff1e69ee2657f0d1cc1a76a01053ec00a6a834ad
